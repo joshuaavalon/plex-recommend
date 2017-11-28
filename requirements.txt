@@ -1,0 +1,10 @@
+certifi==2017.11.5
+chardet==3.0.4
+idna==2.6
+PlexAPI==3.0.4
+requests==2.18.4
+six==1.11.0
+tqdm==4.19.4
+urllib3==1.22
+websocket-client==0.44.0
+xmltodict==0.11.0
